@@ -1,16 +1,18 @@
-## Hi there 👋
+<H1 align="center">
+  <a href="https://astralelite.org" style="text-decoration:none;">
+    <b><span style="font-size:2em;">Astralelite.org</span></b>
+  </a>
+</H1>
 
-<!--
-**shadowinnovator/shadowinnovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:hi@astralelite.org">
+    <span style="font-size:1.5em;"><b>hi@astralelite.org</b></span>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+**projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [journal.astralelite.org](https://journal.astralelite.org)
+- [flow.astralelite.org](https://flow.astralelite.org)
+- [xue.astralelite.org](https://xue.astralelite.org)
+- [hashpros.astralelite.org](https://hashpros.astralelite.org)
